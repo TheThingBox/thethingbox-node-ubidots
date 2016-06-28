@@ -1,2 +1,5 @@
 # thethingbox-node-ubidots
-NodeRED node to use Ubidotsservice
+
+NodeRED node to use Ubidots service.
+
+

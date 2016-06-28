@@ -1,0 +1,10 @@
+{
+    "ubidots": {
+        "token": {
+            "label": "Auth token",
+            "placeholder": "Token author"
+        },
+        "varid": "Variable ID",
+        "name": "Name"
+    }
+}

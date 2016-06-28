@@ -1,0 +1,16 @@
+{
+  "name": "ttb-node-ubidots",
+  "version": "1.0.0",
+  "description": "NodeRED node to post data on Ubidots.",
+  "node-red": {
+      "nodes": {
+          "ubidots": "ubidots.js"
+      }
+  },
+  "keywords": [
+    "node-red",
+    "ubidots"
+  ],
+  "author": "http://www.digitalairways.com/",
+  "license": "http://unlicense.org"
+}
